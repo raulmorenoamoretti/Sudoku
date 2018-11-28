@@ -1,0 +1,3 @@
+C:\Users\HP\Downloads\bin\cmake\bin\cmake.exe -E remove -f CMakeFiles\sudo_f.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\sudo_f.dir/objects.a @CMakeFiles\sudo_f.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\sudo_f.dir/objects.a -Wl,--no-whole-archive  -o sudo_f.exe -Wl,--out-implib,libsudo_f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sudo_f.dir\linklibs.rsp

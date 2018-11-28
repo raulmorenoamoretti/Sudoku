@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/POO/sudo_f/main.cpp
+iostream
+-
+sudoku_3.h
+C:/POO/sudo_f/sudoku_3.h
+sudoku_2.h
+C:/POO/sudo_f/sudoku_2.h
+
+C:/POO/sudo_f/sudoku_2.cpp
+sudoku_2.h
+C:/POO/sudo_f/sudoku_2.h
+
+C:/POO/sudo_f/sudoku_2.h
+time.h
+-
+cstdlib
+-
+iostream
+-
+
+C:/POO/sudo_f/sudoku_3.cpp
+sudoku_3.h
+C:/POO/sudo_f/sudoku_3.h
+
+C:/POO/sudo_f/sudoku_3.h
+time.h
+-
+cstdlib
+-
+iostream
+-
+

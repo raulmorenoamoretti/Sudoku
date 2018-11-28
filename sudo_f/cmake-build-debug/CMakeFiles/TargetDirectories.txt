@@ -1,0 +1,3 @@
+C:/POO/sudo_f/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/POO/sudo_f/cmake-build-debug/CMakeFiles/sudo_f.dir
+C:/POO/sudo_f/cmake-build-debug/CMakeFiles/edit_cache.dir
